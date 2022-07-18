@@ -16,14 +16,14 @@ Projeto: 🚀Em Andamento
  RocketHelp é uma aplicação que ajuda no sistema de solicitações da sua empresa, sabendo que atividades foram solicidades e quais foram concluidas ou que ainda estão em aberto
 
 ## 📱 Telas
-![SignIn](https://user-images.githubusercontent.com/62716267/179580618-505377f0-afad-4240-80f7-64ce2bb8ee05.jpeg)
+<img src="https://user-images.githubusercontent.com/62716267/179580618-505377f0-afad-4240-80f7-64ce2bb8ee05.jpeg">
 
 
 ## 🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-<img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+<img style="width=200px;Height=200px;" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
 <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
 <img src="https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37">
 
