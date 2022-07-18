@@ -19,9 +19,8 @@ Projeto: 🚀Em Andamento
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-- <img align="center" alt="Dario-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">HTML5
-- <img align="center" alt="Dario-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">CSS3
--  <img align="center" alt="Dario-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">JavaScript
+- <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)">
+
 
 
 
