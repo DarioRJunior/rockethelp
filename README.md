@@ -2,7 +2,7 @@
    Portfólio
 </h1>
 <h4 align="center"> 
-Projeto: 🚀Em Andamento
+Projeto: 🚧 Em Andamento 🚧
 </h4>
 <p align="center">
  <a href="#-objetivo">Objetivo</a> •
