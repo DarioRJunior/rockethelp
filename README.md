@@ -13,7 +13,7 @@ Projeto: 🚧 Em Andamento 🚧
 
 ## 💻 Objetivo
  
- RocketHelp é uma aplicação que ajuda no sistema de solicitações da sua empresa, sabendo que atividades foram solicidades e quais foram concluidas ou que ainda estão em aberto
+ RocketHelp é uma aplicação Mobile que funciona tanto em Android como IOS, que ajuda no sistema de solicitações, sabendo que atividades foram solicitadas e quais foram concluídas ou que ainda estão em aberto.
 
 ## 📱 Telas
 - Login
