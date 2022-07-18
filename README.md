@@ -2,7 +2,7 @@
    Portfólio
 </h1>
 <h4 align="center"> 
-Projeto: 🚀Concluido
+Projeto: 🚀Em Andamento
 </h4>
 <p align="center">
  <a href="#-objetivo">Objetivo</a> •
@@ -12,7 +12,7 @@ Projeto: 🚀Concluido
 
 ## 💻 Objetivo
  
- Portfólio - Site contendo todas as minhas informações e habilidades. Disponível em: https://dariojunior.netlify.app/
+ RocketHelp é uma aplicação que ajuda no sistema de solicitações da sua empresa, sabendo que atividades foram solicidades e quais foram concluidas ou que ainda estão em aberto
 
 
 ## 🛠 Tecnologias
