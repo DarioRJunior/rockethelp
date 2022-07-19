@@ -19,7 +19,7 @@ Projeto: 🚧 Em Andamento 🚧
 
 <table>
   <tr>
-    <td>Login</td>
+    <td vertical-align:middle>Login</td>
     <td>Home (em andamento)</td>
     <td>Nova solicitação</td>
   </tr>
