@@ -18,7 +18,7 @@ Projeto: 🚧 Em Andamento 🚧
 ## 📱 Telas
 
 <table>
-  <tr>
+  <tr text-align="center">
     <td>Login</td>
     <td>Home (em andamento)</td>
     <td>Nova solicitação</td>
