@@ -19,9 +19,9 @@ Projeto: 🚧 Em Andamento 🚧
 
 <table>
   <tr>
-    <td>First Screen Page</td>
-     <td>Holiday Mention</td>
-     <td>Present day in purple and selected day in pink</td>
+    <td>Login</td>
+    <td>Home (em andamento)</td>
+    <td>Nova solicitação</td>
   </tr>
   <tr>
     <td><img src="https://user-images.githubusercontent.com/62716267/179580618-505377f0-afad-4240-80f7-64ce2bb8ee05.jpeg" width=270 height=480></td>
@@ -29,11 +29,6 @@ Projeto: 🚧 Em Andamento 🚧
     <td><img src="https://user-images.githubusercontent.com/62716267/179644275-330a59b0-8216-40ca-b288-76eb25bd5804.jpeg" width=270 height=480></td>
   </tr>
  </table>
-<p float="left"> 
-<img src="https://user-images.githubusercontent.com/62716267/179580618-505377f0-afad-4240-80f7-64ce2bb8ee05.jpeg" width="200" height="400">
-<img src="https://user-images.githubusercontent.com/62716267/179644167-234e7af3-00bb-4b5c-8de4-91120637aa3f.jpeg" width="200" height="400">
-<img src="https://user-images.githubusercontent.com/62716267/179644275-330a59b0-8216-40ca-b288-76eb25bd5804.jpeg" width="200" height="400">
-<p/>
 
 
 
