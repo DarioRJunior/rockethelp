@@ -19,9 +19,9 @@ Projeto: 🚧 Em Andamento 🚧
 
 <table>
   <tr>
-    <td text-align="center">Login</td>
-    <td text-align="center">Home (em andamento)</td>
-    <td text-align="center">Nova solicitação</td>
+    <td>Login</td>
+    <td>Home (em andamento)</td>
+    <td>Nova solicitação</td>
   </tr>
   <tr>
     <td><img src="https://user-images.githubusercontent.com/62716267/179580618-505377f0-afad-4240-80f7-64ce2bb8ee05.jpeg" width=200 height=400></td>
