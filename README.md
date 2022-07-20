@@ -33,9 +33,13 @@ Projeto: 🚀 Concluído 🚀
  <table align="center">
   <tr>
     <td align="center">Nova solicitação</td>
+     <td align="center">Solicitação (em andamento)</td>
+     <td align="center">Solicitação (finalizada)</td>
   </tr>
   <tr>
     <td><img src="https://user-images.githubusercontent.com/62716267/179644275-330a59b0-8216-40ca-b288-76eb25bd5804.jpeg" width=200 height=400></td>
+     <td><img src="https://user-images.githubusercontent.com/62716267/180067430-0681d722-9b68-4f6c-ac5a-85f590f1b13a.jpeg" width=200 height=400></td>
+     <td><img src="https://user-images.githubusercontent.com/62716267/179644275-330a59b0-8216-40ca-b288-76eb25bd5804.jpeg" width=200 height=400></td>
   </tr>
  </table>
 
