@@ -39,7 +39,7 @@ Projeto: 🚀 Concluído 🚀
   <tr>
     <td><img src="https://user-images.githubusercontent.com/62716267/179644275-330a59b0-8216-40ca-b288-76eb25bd5804.jpeg" width=200 height=400></td>
      <td><img src="https://user-images.githubusercontent.com/62716267/180067430-0681d722-9b68-4f6c-ac5a-85f590f1b13a.jpeg" width=200 height=400></td>
-     <td><img src="https://user-images.githubusercontent.com/62716267/179644275-330a59b0-8216-40ca-b288-76eb25bd5804.jpeg" width=200 height=400></td>
+     <td><img src="https://user-images.githubusercontent.com/62716267/180067723-a546d4ff-b716-4361-ab15-ccec06407704.jpeg" width=200 height=400></td>
   </tr>
  </table>
 
