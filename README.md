@@ -43,7 +43,7 @@ Projeto: 🚀 Concluído 🚀
   </tr>
  </table>
 
- Abaixo coloquei uma demonstração do aplicativo rodando em um dispositivo móvel
+ <p align="center"> Abaixo coloquei uma demonstração do aplicativo rodando em um dispositivo móvel </p>
  
  https://user-images.githubusercontent.com/62716267/180067868-c5c1fe33-04b1-4532-9343-8361c81f0e52.mp4
  
