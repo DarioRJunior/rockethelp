@@ -17,7 +17,7 @@ Projeto: 🚀 Concluído 🚀
 
 ## 📱 Telas
 
-<table>
+<table align="center">
   <tr>
     <td align="center">Login</td>
     <td align="center">Home (em andamento)</td>
@@ -30,7 +30,7 @@ Projeto: 🚀 Concluído 🚀
   </tr>
  </table>
  
- <table>
+ <table align="center">
   <tr>
     <td align="center">Nova solicitação</td>
   </tr>
