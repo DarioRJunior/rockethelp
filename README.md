@@ -22,12 +22,19 @@ Projeto: 🚀 Concluído 🚀
     <td align="center">Login</td>
     <td align="center">Home (em andamento)</td>
     <td align="center">Home (finalizados)</td>
-    <td align="center">Nova solicitação</td>
   </tr>
   <tr>
     <td><img src="https://user-images.githubusercontent.com/62716267/179580618-505377f0-afad-4240-80f7-64ce2bb8ee05.jpeg" width=200 height=400></td>
     <td><img src="https://user-images.githubusercontent.com/62716267/179644167-234e7af3-00bb-4b5c-8de4-91120637aa3f.jpeg" width=200 height=400></td>
     <td><img src="https://user-images.githubusercontent.com/62716267/180066813-e2cc541a-42bd-4d65-a31c-9950468b3eaf.jpeg" width=200 height=400></td>
+  </tr>
+ </table>
+ 
+ <table>
+  <tr>
+    <td align="center">Nova solicitação</td>
+  </tr>
+  <tr>
     <td><img src="https://user-images.githubusercontent.com/62716267/179644275-330a59b0-8216-40ca-b288-76eb25bd5804.jpeg" width=200 height=400></td>
   </tr>
  </table>
