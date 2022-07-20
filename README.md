@@ -6,7 +6,8 @@ Projeto: 🚀 Concluído 🚀
 </h4>
 <p align="center">
  <a href="#-objetivo">Objetivo</a> •
-   <a href="#-telas">Telas</a> •
+  <a href="#-telas">Telas</a> •
+   <a href="#-demostração">Demonstração</a> •
  <a href="#-tecnologias">Tecnologias</a> •   
  <a href="#-autor">Autor</a>
 </p>
@@ -43,10 +44,12 @@ Projeto: 🚀 Concluído 🚀
   </tr>
  </table>
 
+## Demonstração
 
-https://user-images.githubusercontent.com/62716267/180067868-c5c1fe33-04b1-4532-9343-8361c81f0e52.mp4
-
-
+ Abaixo coloquei uma demonstração do aplicativo rodando em um dispositivo móvel
+ 
+ https://user-images.githubusercontent.com/62716267/180067868-c5c1fe33-04b1-4532-9343-8361c81f0e52.mp4
+ 
 ## 🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
